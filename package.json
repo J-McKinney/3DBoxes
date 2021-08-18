@@ -1,6 +1,8 @@
 {
-  "name": "three_d_boxes",
+  "name": "3DBoxes",
   "version": "0.1.0",
+  "homepage": "https://j-mckinney.github.io/3DBoxes/",
+  "Author": "Jesse McKinney",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
