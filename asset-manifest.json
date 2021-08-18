@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/three_d_boxes/static/css/main.83644186.chunk.css",
+    "main.js": "/three_d_boxes/static/js/main.4283eab5.chunk.js",
+    "main.js.map": "/three_d_boxes/static/js/main.4283eab5.chunk.js.map",
+    "runtime-main.js": "/three_d_boxes/static/js/runtime-main.2a80052a.js",
+    "runtime-main.js.map": "/three_d_boxes/static/js/runtime-main.2a80052a.js.map",
+    "static/js/2.a04f909f.chunk.js": "/three_d_boxes/static/js/2.a04f909f.chunk.js",
+    "static/js/2.a04f909f.chunk.js.map": "/three_d_boxes/static/js/2.a04f909f.chunk.js.map",
+    "index.html": "/three_d_boxes/index.html",
+    "precache-manifest.fa5a93cc5b7d19a506980eb3945124e0.js": "/three_d_boxes/precache-manifest.fa5a93cc5b7d19a506980eb3945124e0.js",
+    "service-worker.js": "/three_d_boxes/service-worker.js",
+    "static/css/main.83644186.chunk.css.map": "/three_d_boxes/static/css/main.83644186.chunk.css.map",
+    "static/js/2.a04f909f.chunk.js.LICENSE.txt": "/three_d_boxes/static/js/2.a04f909f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2a80052a.js",
+    "static/js/2.a04f909f.chunk.js",
+    "static/css/main.83644186.chunk.css",
+    "static/js/main.4283eab5.chunk.js"
+  ]
+}
