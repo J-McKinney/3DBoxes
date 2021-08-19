@@ -1,9 +1,11 @@
 #threeDBoxWrapper {
   background-color: #ecf0f3bd;
+  min-height: 90%;
+  padding: 5% 40%;
 }
 
 .login-div {
-  margin-left: 10%;
+  /* margin-left: 40vw; */
   width: 230px;
   height: 500px;
   padding: 60px 35px 35px 35px;
