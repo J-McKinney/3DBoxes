@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/3DBoxes/static/css/main.83644186.chunk.css",
+    "main.css": "/3DBoxes/static/css/main.a7d71e91.chunk.css",
     "main.js": "/3DBoxes/static/js/main.5b0dc04f.chunk.js",
     "main.js.map": "/3DBoxes/static/js/main.5b0dc04f.chunk.js.map",
     "runtime-main.js": "/3DBoxes/static/js/runtime-main.77026fce.js",
@@ -8,15 +8,15 @@
     "static/js/2.584a6370.chunk.js": "/3DBoxes/static/js/2.584a6370.chunk.js",
     "static/js/2.584a6370.chunk.js.map": "/3DBoxes/static/js/2.584a6370.chunk.js.map",
     "index.html": "/3DBoxes/index.html",
-    "precache-manifest.aa167b5ef57586bec47b5014021ce8c9.js": "/3DBoxes/precache-manifest.aa167b5ef57586bec47b5014021ce8c9.js",
+    "precache-manifest.735a1d17e7cc91c740ba35e6b3facde5.js": "/3DBoxes/precache-manifest.735a1d17e7cc91c740ba35e6b3facde5.js",
     "service-worker.js": "/3DBoxes/service-worker.js",
-    "static/css/main.83644186.chunk.css.map": "/3DBoxes/static/css/main.83644186.chunk.css.map",
+    "static/css/main.a7d71e91.chunk.css.map": "/3DBoxes/static/css/main.a7d71e91.chunk.css.map",
     "static/js/2.584a6370.chunk.js.LICENSE.txt": "/3DBoxes/static/js/2.584a6370.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.77026fce.js",
     "static/js/2.584a6370.chunk.js",
-    "static/css/main.83644186.chunk.css",
+    "static/css/main.a7d71e91.chunk.css",
     "static/js/main.5b0dc04f.chunk.js"
   ]
 }
